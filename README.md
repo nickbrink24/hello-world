@@ -9,4 +9,3 @@ I recently watched Hunger Games
 
 Edits:
 - Added a movie I recently watched.
-- Also wanted to show that after merging, you can still make edits to the non-main branch
